@@ -96,3 +96,50 @@ public class Observable<T> {
 
 
 下面实现map，起始map是就是对结果再包装一层Observe.
+
+
+
+实现结果测试
+
+
+
+```java
+Observable.create(new Observable.OnSubscribe<Integer>() {
+      public void call(Subscriber<? super Integer> subscriber) {
+        for (int i = 0; i < 10; i++) {
+          subscriber.onNext(i);
+        }
+        subscriber.onCompleted();
+      }
+    })
+              .map(new Observable.Transformer<Integer, String>() {
+                public String call(Integer from) {
+                  System.out.println("subsc1@ " + Thread.currentThread().getName());
+                  return "maping " + from;
+                }
+              })
+              .map(new Observable.Transformer<String, String>() {
+                public String call(String from) {
+                  System.out.println("subsc2@ " + Thread.currentThread().getName());
+                  return "maping2 " + from;
+                }
+              })
+              .subscribe(new Subscriber<String>() {
+                public void onCompleted() {
+                  System.out.println("complete");
+                }
+
+                public void onError(Throwable r) {
+
+                }
+
+                public void onNext(String string) {
+                  System.out.println(Thread.currentThread().getName());
+                  System.out.println(string);
+                }
+              });
+```
+
+
+
+至于线程切换，就是在指定的线程调用`call` 函数、或调用`subscriber`里的onNext()等函数
