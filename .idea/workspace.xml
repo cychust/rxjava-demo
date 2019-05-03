@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8955255c-b1c4-4fb9-b396-10de18725860" name="Default" comment="" />
+    <list default="true" id="8955255c-b1c4-4fb9-b396-10de18725860" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/cychust/rxjava/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/cychust/rxjava/Main.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,7 +23,7 @@
       <file leaf-file-name="Observer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/cn/cychust/rxjava/Observer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
+            <state relative-caret-position="-8">
               <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
             </state>
           </provider>
@@ -30,8 +32,8 @@
       <file leaf-file-name="Observable.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/cn/cychust/rxjava/Observable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+            <state relative-caret-position="-8">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
               <folding>
                 <element signature="e#245#246#0" expanded="true" />
                 <element signature="e#292#293#0" expanded="true" />
@@ -58,7 +60,7 @@
       <file leaf-file-name="Scheduler.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/cn/cychust/rxjava/Scheduler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
+            <state relative-caret-position="-8">
               <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
               <folding>
                 <element signature="e#261#262#0" expanded="true" />
@@ -77,7 +79,7 @@
       <file leaf-file-name="Schedulers.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/cn/cychust/rxjava/Schedulers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
+            <state relative-caret-position="-8">
               <caret line="13" column="94" selection-start-line="13" selection-start-column="94" selection-end-line="13" selection-end-column="94" />
               <folding>
                 <element signature="e#328#329#0" expanded="true" />
@@ -92,7 +94,7 @@
       <file leaf-file-name="MapOnSubscribe.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/cn/cychust/rxjava/MapOnSubscribe.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
+            <state relative-caret-position="-8">
               <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
             </state>
           </provider>
@@ -101,7 +103,7 @@
       <file leaf-file-name="MapSubscriber.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/cn/cychust/rxjava/MapSubscriber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
+            <state relative-caret-position="-8">
               <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
               <folding>
                 <element signature="e#521#522#0" expanded="true" />
@@ -118,15 +120,15 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/cn/cychust/rxjava/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="26" column="50" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
+            <state relative-caret-position="324">
+              <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
               <folding>
-                <element signature="e#217#435#0" expanded="true" />
-                <element signature="e#434#435#0" expanded="true" />
-                <element signature="e#553#769#0" expanded="true" />
-                <element signature="e#768#769#0" expanded="true" />
-                <element signature="e#891#1106#0" expanded="true" />
-                <element signature="e#1105#1106#0" expanded="true" />
+                <element signature="e#212#445#0" expanded="true" />
+                <element signature="e#444#445#0" expanded="true" />
+                <element signature="e#495#755#0" expanded="true" />
+                <element signature="e#754#755#0" expanded="true" />
+                <element signature="e#711#970#0" expanded="true" />
+                <element signature="e#969#970#0" expanded="true" />
                 <element signature="e#537#538#0" expanded="true" />
                 <element signature="e#575#576#0" expanded="true" />
               </folding>
@@ -137,7 +139,7 @@
       <file leaf-file-name="Subscriber.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/cn/cychust/rxjava/Subscriber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
+            <state relative-caret-position="-8">
               <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
             </state>
           </provider>
@@ -156,6 +158,9 @@
     <findStrings>
       <find>;</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
@@ -206,6 +211,7 @@
     <option name="width" value="1863" />
     <option name="height" value="1055" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -261,7 +267,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -344,12 +350,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556857709015</updated>
-      <workItem from="1556857713760" duration="7063000" />
+      <workItem from="1556857713760" duration="8332000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7063000" />
+    <option name="totallyTimeSpent" value="8332000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1920" height="1052" extended-state="6" />
@@ -364,12 +370,12 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32901832" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32901832" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32937366" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
       <window_info anchor="right" id="Database" />
       <window_info id="Learn" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -405,21 +411,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/cychust/rxjava/Observer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
+        <state relative-caret-position="-8">
           <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/cychust/rxjava/Subscriber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
+        <state relative-caret-position="-8">
           <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/cychust/rxjava/MapSubscriber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
+        <state relative-caret-position="-8">
           <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
           <folding>
             <element signature="e#521#522#0" expanded="true" />
@@ -434,7 +440,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/cychust/rxjava/Schedulers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
+        <state relative-caret-position="-8">
           <caret line="13" column="94" selection-start-line="13" selection-start-column="94" selection-end-line="13" selection-end-column="94" />
           <folding>
             <element signature="e#328#329#0" expanded="true" />
@@ -447,7 +453,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/cychust/rxjava/Scheduler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
+        <state relative-caret-position="-8">
           <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
           <folding>
             <element signature="e#261#262#0" expanded="true" />
@@ -464,15 +470,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/cychust/rxjava/MapOnSubscribe.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
+        <state relative-caret-position="-8">
           <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="1140" column="24" selection-start-line="1140" selection-start-column="24" selection-end-line="1140" selection-end-column="24" />
+          <folding>
+            <element signature="e#43969#43970#0" expanded="true" />
+            <element signature="e#43996#43997#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/cychust/rxjava/Observable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        <state relative-caret-position="-8">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
           <folding>
             <element signature="e#245#246#0" expanded="true" />
             <element signature="e#292#293#0" expanded="true" />
@@ -495,28 +512,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="1140" column="24" selection-start-line="1140" selection-start-column="24" selection-end-line="1140" selection-end-column="24" />
-          <folding>
-            <element signature="e#43969#43970#0" expanded="true" />
-            <element signature="e#43996#43997#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/cychust/rxjava/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="26" column="50" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
+        <state relative-caret-position="324">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
           <folding>
-            <element signature="e#217#435#0" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
-            <element signature="e#553#769#0" expanded="true" />
-            <element signature="e#768#769#0" expanded="true" />
-            <element signature="e#891#1106#0" expanded="true" />
-            <element signature="e#1105#1106#0" expanded="true" />
+            <element signature="e#212#445#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#495#755#0" expanded="true" />
+            <element signature="e#754#755#0" expanded="true" />
+            <element signature="e#711#970#0" expanded="true" />
+            <element signature="e#969#970#0" expanded="true" />
             <element signature="e#537#538#0" expanded="true" />
             <element signature="e#575#576#0" expanded="true" />
           </folding>
