@@ -1,4 +1,6 @@
-# Rxjava实现基本流程
+# `Rxjava` 实现一个基本的rxjava框架
+
+> 为学习rxjava的基本流程，写一个精简版的rxjava
 
 
 
